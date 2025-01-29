@@ -11,7 +11,7 @@ import pandas as pd
 # Title of the app
 st.title("Researcher Profile Page")
 
-st.link("https://github.com/4282193/repo1/blob/main/Screenshot%202025-01-29%20142754.png")
+st.image("https://github.com/4282193/repo1/blob/main/Screenshot%202025-01-29%20142754.png")
 
 # Collect basic information
 name = "Basheerah Sulliman"
