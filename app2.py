@@ -11,7 +11,7 @@ import pandas as pd
 # Title of the app
 st.title("Researcher Profile Page")
 
-# st.image("image_about_me.png")
+st.image("C:\Users\T480\streamlit\image_about_me")
 
 # Collect basic information
 name = "Basheerah Sulliman"
